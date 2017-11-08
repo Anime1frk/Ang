@@ -1,0 +1,318 @@
+
+KNOWLEDGEUNIVERSE
+
+Microsoft Practice
+
+￼	￼
+
+HOMECURRENTLY SELECTED
+
+ABOUT US
+
+Knowledge Portals
+
+Overview
+
+Wipro Standard Presentation
+
+Wipro Standard Presentation Template
+
+Management Team
+
+KNOWLEDGE CAPITAL
+
+Upload Artifact
+
+All Artifacts
+
+Domain Artifacts
+
+Technical Artifacts
+
+Case Studies
+
+Best Practices
+
+White Paper
+
+Lessons Learnt
+
+Reuse Asset
+
+Tips&Tricks
+
+Reusable Components
+
+My Submissions
+
+KMPact Stories
+
+Knowledge Bytes
+
+Project/Program Profiles
+
+LIBRARIES
+
+Customer and Delivery
+
+Sales and Marketing
+
+People and Practices
+
+Quality and Governance
+
+Tools and Templates
+
+Research and Innovation
+
+Learning and Competency
+
+Products and Solutions
+
+Success Stories
+
+K-Korner
+
+KS2 Recordings and Presentations
+
+TRACKERS & LISTS
+
+Project/Program Overview
+
+Knowledge Artifact Showcase
+
+Support Function
+
+SubSites
+
+COLLABORATION ZONE
+
+QUICK LINKS
+
+Warrooms
+
+Crystal 1.0
+
+Crystal 2.0
+
+Site Contents
+
+Catalyst
+
+Velociq
+
+Learning
+
+Channel W
+
+Crowd Genie
+
+SHINE
+
+KEDB
+
+Artifact Pending for review
+
+Site Settings
+
+Rejected Artifacts
+
+Turn on more accessible mode
+
+Devendra Singh Rawat (Financial Services...
+
+￼SHARE ￼FOLLOW ￼
+
+ASP.NET - L1 
+
+ASP.NET - L1
+
+*Important Notes
+
+ 
+
+*Please note that MSDN page may contains multiple nested pages , additional reference links etc.  If you want to explore more then only visit those additional information.
+
+ 
+
+*Approx. time of completion of this course is completion of this course  - 55 Hours. This is just a tentative time .It can vary person to person.
+
+ 
+
+ChaptersTOCSub TopicLearning InformationChapter 1
+
+ 
+
+ASP.NET Fundamentals
+
+Configuring ASP.NET Applications
+https://msdn.microsoft.com/en-us/library/ms178477.aspx   *How to: Open IIS Managerhttps://msdn.microsoft.com/en-us/library/bb763170.aspx *Walkthrough: Configuring ASP.NET Applications in IIS 7.0https://msdn.microsoft.com/en-us/library/bb763174.aspxMoving to IIS 7.0 ( latest version) *Running Web Applications on Windows Vista with IIS 7.0 and Visual Studiohttps://msdn.microsoft.com/en-us/library/aa964620.aspx*Running Web Applications on Windows Server 2008 with IIS 7.0 and Visual Studiohttps://msdn.microsoft.com/en-us/library/bb763178.aspx*Moving an ASP.NET Application from IIS 6.0 to IIS 7.0https://msdn.microsoft.com/en-us/library/bb515251.aspxCreating Virtual Directories and Local Web Sites *How to: Create and Configure Virtual Directories and Applications in IIS 7.0https://msdn.microsoft.com/en-us/library/bb763173.aspx*How to: Create and Configure Local ASP.NET Web Sites in IIS 6.0https://msdn.microsoft.com/en-us/library/33487zw6.aspx*Creating ASP.NET Web Application Root Directories in IIS 6.0https://msdn.microsoft.com/en-us/library/ha2y9493.aspxConfiguring FTP and SMTP * Create and Configure FTP Sites in IIS 6.0https://msdn.microsoft.com/en-us/library/6ws081sa.aspx*Configuring SMTP E-mail in IIS 7https://technet.microsoft.com/en-us/library/0b31d719-1fb3-4e26-b863-c23c2de1fb13* Install and Configure SMTP Virtual Servers in IIS 6.0https://msdn.microsoft.com/en-us/library/8b83ac7t.aspx*Set Up FTP in IIS 7https://technet.microsoft.com/en-us/library/333bd592-3975-47b7-846a-e2286161b1e0ASP.NET Page Life Cycle Overviewhttps://msdn.microsoft.com/en-us/library/ms178472.aspx#general_page_lifecycle_stages*General Page Life-Cycle Stageshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#general_page_lifecycle_stages
+Life-Cycle Events
+https://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsAdditional Page Life Cycle Considerationshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsCatch-Up Events for Added Controlshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsData Binding Events for Data-Bound Controlshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsNested Data-Bound Controlshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsLogin Control Eventshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsIntroduction to ASP.NET Web Formshttp://www.asp.net/web-forms/what-is-web-formsChapter 2ASP.NET Web Server Controls ASP.NET Web Server Controls Overviewhttps://msdn.microsoft.com/en-us/library/zsyt68f1(v=vs.100).aspx  HTML Server Controlshttps://msdn.microsoft.com/en-us/library/zsyt68f1(v=vs.100).aspxHow to: Add HTML Server Controls to a Web Page Using ASP.NET Syntaxhttps://msdn.microsoft.com/en-us/library/s37470tf(v=vs.100).aspxWeb Server Controlshttps://msdn.microsoft.com/en-us/library/zsyt68f1(v=vs.100).aspxAdd Web Server Controls to a Web Forms Page Using the Web Forms Designerhttps://msdn.microsoft.com/en-us/library/y40dxsky(v=vs.100).aspxAdd Server Controls to an ASP.NET Web Page Using ASP.NET Syntaxhttps://msdn.microsoft.com/en-us/library/zzhfb89h(v=vs.100).aspxSet ASP.NET Server Control Style Properties in the Designerhttps://msdn.microsoft.com/en-us/library/fes5e68a(v=vs.100).aspxSet ASP.NET Server Control Propertieshttps://msdn.microsoft.com/en-us/library/dt5bk9ke(v=vs.100).aspxConvert HTML Server Controls to HTML Elementshttps://msdn.microsoft.com/en-us/library/3kc9226t(v=vs.100).aspxSet ASP.NET Web Server Control Propertieshttps://msdn.microsoft.com/en-us/library/7ataet98(v=vs.100).aspxHow to Specify Whether ASP.NET Web Server Controls Post to the Serverhttps://msdn.microsoft.com/en-us/library/8cb3cz8e(v=vs.100).aspxASP.NET Web Server Controls and Browser Capabilitieshttps://msdn.microsoft.com/en-us/library/x3k2ssx2(v=vs.100).aspxTab Order, Focus, and Access Keys in ASP.NET Web Server Controlshttps://msdn.microsoft.com/en-us/library/ms178231(v=vs.100).aspxASP.NET Web Server Controls and CSS Styleshttps://msdn.microsoft.com/en-us/library/h4kete56(v=vs.100).aspxHow to: Set Focus on ASP.NET Web Server Controlshttps://msdn.microsoft.com/en-us/library/ms178232(v=vs.100).aspxSet ASP.NET Server Control Style Properties Using ASP.NET Syntaxhttps://msdn.microsoft.com/en-us/library/54dc18sa(v=vs.100).aspxSet ASP.NET Server Control Style Properties Programmaticallyhttps://msdn.microsoft.com/en-us/library/17ysx206(v=vs.100).aspxASP.NET Web Server Controls Templateshttps://msdn.microsoft.com/en-us/library/h59db326(v=vs.100).aspxCreate Web Server Control Templates Using the Designerhttps://msdn.microsoft.com/en-us/library/c9cbwsf3(v=vs.100).aspxAdd Controls to an ASP.NET Web Page Programmaticallyhttps://msdn.microsoft.com/en-us/library/kyt0fzt1(v=vs.100).aspxDynamic Web Server Controls and View Statehttps://msdn.microsoft.com/en-us/library/hbdfdyh7(v=vs.100).aspxChapter 3Validation Server ControlsValidating User Input in ASP.NET Web Pageshttps://msdn.microsoft.com/en-us/library/7kh55542(v=vs.100).aspx  Types of Validation for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/bwd43d0x(v=vs.100).aspxValidate Required Entries for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/e78xxk8k(v=vs.100).aspxValidate Against a Specific Value for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/e303tf05(v=vs.100).aspxValidate Against a Data Type for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/ad548tzy(v=vs.100).aspxValidate Against Patterns for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/6xh899wy(v=vs.100).aspxValidate Against a Range of Values for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/bk58fdzx(v=vs.100).aspxValidate Against Values in a Database for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/s5z00s5e(v=vs.100).aspxValidate with a Custom Function for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/f5db6z8k(v=vs.100).aspxSpecifying Validation Groupshttps://msdn.microsoft.com/en-us/library/ms227424(v=vs.100).aspxClient-Side Validation for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/yb52a4x0(v=vs.100).aspxSpecial-Case Validation Results for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/c6k4b2x3(v=vs.100).aspxValidation Error Message Layout for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/ksfy5wzx(v=vs.100).aspxControl Validation Error Message Display for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/1ze30x3t(v=vs.100).aspxFormat Validation Error Messages for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/fb6e4020(v=vs.100).aspxSpecify Layout for In-Place Messages On ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/ct6azxyt(v=vs.100).aspxDisplay Server Side Custom Validation Messages for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/3w0bs977(v=vs.100).aspxTest Validity Programmatically for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/dh9ad08f(v=vs.100).aspxDisable Validation for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/bt244wbb(v=vs.100).aspxValidate Programmatically for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/hxet6xwx(v=vs.100).aspxChapter 4ASP.NET Standard controls  controls https://msdn.microsoft.com/en-us/library/cc295572(v=expression.40).aspx  Refer all ASP.NET standard controls - Properties, Methods and Eventshttps://msdn.microsoft.com/en-us/library/cc295572(v=expression.40).aspxASP.NET User Controls Overviewhttps://msdn.microsoft.com/en-us/library/fb3w5b53(v=vs.100).aspxConvert Web Forms Pages into ASP.NET User https://msdn.microsoft.com/en-us/library/2x6sx01c(v=vs.100).aspxInclude a User Control in an ASP.NET Web Pagehttps://msdn.microsoft.com/en-us/library/sbz9etab(v=vs.100).aspxCreate Instances of ASP.NET User Controls Programmaticallyhttps://msdn.microsoft.com/en-us/library/c0az2h86(v=vs.100).aspxCreate Templated ASP.NET User Controlshttps://msdn.microsoft.com/en-us/library/36574bf6(v=vs.100).aspxCreate ASP.NET User Controlshttps://msdn.microsoft.com/en-us/library/wt3k2fyw(v=vs.100).aspxInclude ASP.NET User Controls in Web Pageshttps://msdn.microsoft.com/en-us/library/5d0t5fak(v=vs.100).aspxCreating Reusable Elements with ASP.NET User Controlshttps://msdn.microsoft.com/en-us/library/3457w616(v=vs.100).aspxStandard Toolbox Controls - Refer all controls https://msdn.microsoft.com/en-us/library/x8k61whf(v=vs.100).aspxData Toolbox Controlshttps://msdn.microsoft.com/en-us/library/s1c14y5c(v=vs.100).aspxData Web Server (ASP.NET) Controlshttps://msdn.microsoft.com/en-us/library/ms247243(v=vs.100).aspxASP.NET Data-Bound Web Server Controls https://msdn.microsoft.com/en-us/library/ms228214(v=vs.100).aspxListView Web Server Control https://msdn.microsoft.com/en-us/library/bb398790(v=vs.100).aspxGridView Web Server Controlhttps://msdn.microsoft.com/en-us/library/2s019wc0(v=vs.100).aspxDetailsView Web Server Control https://msdn.microsoft.com/en-us/library/s3w1w7t4(v=vs.100).aspxFormView Web Server Controlhttps://msdn.microsoft.com/en-us/library/ms227992(v=vs.100).aspxRepeater Web Server Control https://msdn.microsoft.com/en-us/library/x8f2zez5(v=vs.100).aspxDataList Web Server Controlhttps://msdn.microsoft.com/en-us/library/es4e4e0e(v=vs.100).aspxNavigation Toolbox Controlshttps://msdn.microsoft.com/en-us/library/c4hb2k3a(v=vs.100).aspxMenu Control https://msdn.microsoft.com/en-us/library/ecs0x9w5(v=vs.100).aspxSiteMapPath Web Server Control https://msdn.microsoft.com/en-us/library/x20z8c51(v=vs.100).aspxTreeView Web Server Control https://msdn.microsoft.com/en-us/library/e8z5184w(v=vs.100).aspxLogin Toolbox Controls - Refer all controls in this sectionhttps://msdn.microsoft.com/en-us/library/tz6e5ezc(v=vs.100).aspxASP.NET Login Controls  , Securing Login Controls,
+Customizing the Appearance of ASP.NET Login Controls, Enable User Password Recovery Using the ASP.NET PasswordRecovery Control , Enable User Registration,  Display the Name of the Current User , Add a LoginStatus Button to an ASP.NET Web Page , Create an ASP.NET Login Page , Display Different Information to Anonymous and Logged In UsersChapter 5Global.asax Global.asax  Syntax https://msdn.microsoft.com/en-us/library/vstudio/2027ewzw(v=vs.100).aspx  Application Directives- @ Application - Global.asax,@ Import,@ Assemblyhttps://msdn.microsoft.com/en-us/library/vstudio/s42bzt8x(v=vs.100).aspxCode Declaration Blockshttps://msdn.microsoft.com/en-us/library/vstudio/2cy7sxha(v=vs.100).aspxCode Render Blockshttps://msdn.microsoft.com/en-us/library/vstudio/k6xeyd4z(v=vs.100).aspxServer-Side Object Tag Syntaxhttps://msdn.microsoft.com/en-us/library/vstudio/h8k45y06(v=vs.100).aspxServer-Side Include Directive Syntaxhttps://msdn.microsoft.com/en-us/library/vstudio/3207d0e3(v=vs.100).aspxCreate ASP.NET Application-Level Event Handlershttps://msdn.microsoft.com/en-us/library/fwzzh56s.aspxChapter 6ASP.NET Web Configuration GuidelinesASP.NET Web Configuration Guidelineshttps://msdn.microsoft.com/en-us/library/vstudio/ff400235(v=vs.100).aspx   ASP.NET Configuration Overviewhttps://msdn.microsoft.com/en-us/library/ms178683.aspxASP.NET Configuration Fileshttps://msdn.microsoft.com/en-us/library/ms178684.aspxASP.NET Configuration File Structure https://msdn.microsoft.com/en-us/library/w7w4sb0w.aspxASP.NET Configuration Logical Modelhttps://msdn.microsoft.com/en-us/library/ms366520(v=vs.100).aspxEditing ASP.NET Configuration Fileshttps://msdn.microsoft.com/en-us/library/ackhksh7.aspxASP.NET Configuration File Hierarchy and Inheritancehttps://msdn.microsoft.com/en-us/library/ms178685.aspxASP.NET Configuration Scenarioshttps://msdn.microsoft.com/en-us/library/dtbwsx8s.aspxConfiguring Specific Files and Subdirectorieshttps://msdn.microsoft.com/en-us/library/6hbkh9s7.aspxLocking Configuration Settingshttps://msdn.microsoft.com/en-us/library/55th21y4.aspxCreate Web.config Fileshttps://msdn.microsoft.com/en-us/library/k8x4ket8(v=vs.100).aspxUsing ASP.NET Configurationhttps://msdn.microsoft.com/en-us/library/bb763176(v=vs.100).aspxConfiguring Apps by using Configuration Fileshttps://msdn.microsoft.com/en-us/library/1xtk877y.aspxHow To Edit the Configuration of an ASP.NET Applicationhttp://support2.microsoft.com/kb/815178Chapter 7ASP.NET State ManagementASP.NET State Management Overviewhttps://msdn.microsoft.com/en-us/library/75x4ha6s.aspx  ASP.NET Cookies Overviewhttps://msdn.microsoft.com/en-us/library/ms178194(v=vs.100).aspxHow to: Write a Cookiehttps://msdn.microsoft.com/en-us/library/78c837bd(v=vs.100).aspxHow to: Read a Cookiehttps://msdn.microsoft.com/en-us/library/bd70eh18(v=vs.100).aspxHow to: Delete a Cookiehttps://msdn.microsoft.com/en-us/library/ms178195(v=vs.100).aspxASP.NET View State Overviewhttps://msdn.microsoft.com/en-us/library/bb386448(v=vs.100).aspxASP.NET Session State Overview-
+Session Identifiers , Session-State Events , Session-State, Securing Session State,
+How to: Save Values in Session State ,
+ How to: Read Values from Session State ,https://msdn.microsoft.com/en-us/library/ms178581(v=vs.100).aspxImplementing a Session-State Store Providerhttps://msdn.microsoft.com/en-us/library/ms178587(v=vs.100).aspxSample Session-State Store Providerhttps://msdn.microsoft.com/en-us/library/ms178588(v=vs.100).aspxHow to: Sample Session-State Store Providerhttps://msdn.microsoft.com/en-us/library/ms178589(v=vs.100).aspxChapter 8Accessing DataAccessing Data with ASP.NEThttps://msdn.microsoft.com/en-us/library/6759sth4(v=vs.100).aspx  ASP.NET Data Access Overviewhttps://msdn.microsoft.com/en-us/library/ms178359(v=vs.100).aspxUsing LINQ with ASP.NEThttps://msdn.microsoft.com/en-us/library/bb907622(v=vs.100).aspxCreate LINQ to SQL Classes in a Web Projecthttps://msdn.microsoft.com/en-us/library/bb907587(v=vs.100).aspxBinding to Databaseshttps://msdn.microsoft.com/en-us/library/ms178361(v=vs.100).aspx*Connecting to Databases in ASP.NEThttps://msdn.microsoft.com/en-us/library/ms178371(v=vs.100).aspx* Secure Connection Strings when Using Data Source Controlshttps://msdn.microsoft.com/en-us/library/ms178372(v=vs.100).aspx*Basic Data Access in Web Pageshttps://msdn.microsoft.com/en-us/library/tw738475(v=vs.100).aspx*Editing and Inserting Data in Web Pages with the DetailsView Web Server Controlhttps://msdn.microsoft.com/en-us/library/sdba1d59(v=vs.100).aspx*Creating Master/Detail Web Pages in Visual Studiohttps://msdn.microsoft.com/en-us/library/stc0szde(v=vs.100).aspx*Creating a Web Page to Display Access Database Datahttps://msdn.microsoft.com/en-us/library/445z2s49(v=vs.100).aspxBinding to Business Objectshttps://msdn.microsoft.com/en-us/library/ms178368(v=vs.100).aspxData-Binding Expressions Overviewhttps://msdn.microsoft.com/en-us/library/ms178366(v=vs.100).aspxBind to Data in a Templated Controlhttps://msdn.microsoft.com/en-us/library/95k0273d(v=vs.100).aspxASP.NET Dynamic Data Overviewhttps://msdn.microsoft.com/en-us/library/cc488546(v=vs.100).aspxChapter 9ASP.NET 4.5 and Visual Studio 2012ASP.NET 4.5 and Visual Studio 2012- Overviewhttp://www.asp.net/aspnet/overview/aspnet-and-visual-studio-2012/whats-new#_Toc318097380  ASP.NET Core Runtime and FrameworkAsynchronously Reading and Writing HTTP Requests and ResponsesImprovements to HttpRequest handlingAsynchronously flushing a responseSupport for await and Task-Based Asynchronous Modules and HandlersAsynchronous HTTP modulesAsynchronous HTTP handlersNew ASP.NET Request Validation FeaturesDeferred ("lazy") request validationSupport for unvalidated requestsAntiXSS LibrarySupport for WebSockets ProtocolBundling and MinificationPerformance Improvements for Web HostingKey performance factorsRequirements for New Performance FeaturesSharing Common AssembliesTuning garbage collection to optimize for memoryASP.NET Web FormsModel BindingHTML Encoded Data-Binding ExpressionsUnobtrusive ValidationHTML5 UpdatesNative Support in IIS 7 for ASP.NET RoutingHTML EditorChapter 10Visual Studio Web Development Select Web Development Environment Settings - ( Net - 4.5 )https://msdn.microsoft.com/en-us/library/ff521558(v=vs.110).aspx  Visual Studio Templates for Web Projects -( Net - 4.5 )https://msdn.microsoft.com/en-us/library/ee377605(v=vs.110).aspxBasic HTML Editing in Visual Studio for Web Forms Pages https://msdn.microsoft.com/en-us/library/9z74w20y(v=vs.110).aspxUsing HTML Snippetshttps://msdn.microsoft.com/en-us/library/dd985242(v=vs.110).aspxAdvanced HTML Editing in Visual Studio for Web Forms Pageshttps://msdn.microsoft.com/en-us/library/schs05kd(v=vs.110).aspxInsert HTML Hyperlinks and Bookmarks in Design View for Web Forms Pageshttps://msdn.microsoft.com/en-us/library/ad09f4da(v=vs.110).aspxTesting Web Pages in Visual Studiohttps://msdn.microsoft.com/en-us/library/df5x06h3(v=vs.110).aspxMarkup Validation in Visual Studiohttps://msdn.microsoft.com/en-us/library/f940516c(v=vs.110).aspxWorking with CSS Overviewhttps://msdn.microsoft.com/en-us/library/bb398931(v=vs.110).aspxCreating and Modifying a CSS Filehttps://msdn.microsoft.com/en-us/library/bb398932(v=vs.110).aspxWorking with an Existing CSS Filehttps://msdn.microsoft.com/en-us/library/bb398783(v=vs.110).aspxUse the CSS Properties Windowhttps://msdn.microsoft.com/en-us/library/bb398902(v=vs.110).aspx​
+
+​
+
+
+
+KNOWLEDGEUNIVERSE
+
+Microsoft Practice
+
+￼	￼
+
+HOMECURRENTLY SELECTED
+
+ABOUT US
+
+Knowledge Portals
+
+Overview
+
+Wipro Standard Presentation
+
+Wipro Standard Presentation Template
+
+Management Team
+
+KNOWLEDGE CAPITAL
+
+Upload Artifact
+
+All Artifacts
+
+Domain Artifacts
+
+Technical Artifacts
+
+Case Studies
+
+Best Practices
+
+White Paper
+
+Lessons Learnt
+
+Reuse Asset
+
+Tips&Tricks
+
+Reusable Components
+
+My Submissions
+
+KMPact Stories
+
+Knowledge Bytes
+
+Project/Program Profiles
+
+LIBRARIES
+
+Customer and Delivery
+
+Sales and Marketing
+
+People and Practices
+
+Quality and Governance
+
+Tools and Templates
+
+Research and Innovation
+
+Learning and Competency
+
+Products and Solutions
+
+Success Stories
+
+K-Korner
+
+KS2 Recordings and Presentations
+
+TRACKERS & LISTS
+
+Project/Program Overview
+
+Knowledge Artifact Showcase
+
+Support Function
+
+SubSites
+
+COLLABORATION ZONE
+
+QUICK LINKS
+
+Warrooms
+
+Crystal 1.0
+
+Crystal 2.0
+
+Site Contents
+
+Catalyst
+
+Velociq
+
+Learning
+
+Channel W
+
+Crowd Genie
+
+SHINE
+
+KEDB
+
+Artifact Pending for review
+
+Site Settings
+
+Rejected Artifacts
+
+Turn on more accessible mode
+
+Devendra Singh Rawat (Financial Services...
+
+￼SHARE ￼FOLLOW ￼
+
+ASP.NET - L1 
+
+ASP.NET - L1
+
+*Important Notes
+
+ 
+
+*Please note that MSDN page may contains multiple nested pages , additional reference links etc.  If you want to explore more then only visit those additional information.
+
+ 
+
+*Approx. time of completion of this course is completion of this course  - 55 Hours. This is just a tentative time .It can vary person to person.
+
+ 
+
+ChaptersTOCSub TopicLearning InformationChapter 1
+
+ 
+
+ASP.NET Fundamentals
+
+Configuring ASP.NET Applications
+https://msdn.microsoft.com/en-us/library/ms178477.aspx   *How to: Open IIS Managerhttps://msdn.microsoft.com/en-us/library/bb763170.aspx *Walkthrough: Configuring ASP.NET Applications in IIS 7.0https://msdn.microsoft.com/en-us/library/bb763174.aspxMoving to IIS 7.0 ( latest version) *Running Web Applications on Windows Vista with IIS 7.0 and Visual Studiohttps://msdn.microsoft.com/en-us/library/aa964620.aspx*Running Web Applications on Windows Server 2008 with IIS 7.0 and Visual Studiohttps://msdn.microsoft.com/en-us/library/bb763178.aspx*Moving an ASP.NET Application from IIS 6.0 to IIS 7.0https://msdn.microsoft.com/en-us/library/bb515251.aspxCreating Virtual Directories and Local Web Sites *How to: Create and Configure Virtual Directories and Applications in IIS 7.0https://msdn.microsoft.com/en-us/library/bb763173.aspx*How to: Create and Configure Local ASP.NET Web Sites in IIS 6.0https://msdn.microsoft.com/en-us/library/33487zw6.aspx*Creating ASP.NET Web Application Root Directories in IIS 6.0https://msdn.microsoft.com/en-us/library/ha2y9493.aspxConfiguring FTP and SMTP * Create and Configure FTP Sites in IIS 6.0https://msdn.microsoft.com/en-us/library/6ws081sa.aspx*Configuring SMTP E-mail in IIS 7https://technet.microsoft.com/en-us/library/0b31d719-1fb3-4e26-b863-c23c2de1fb13* Install and Configure SMTP Virtual Servers in IIS 6.0https://msdn.microsoft.com/en-us/library/8b83ac7t.aspx*Set Up FTP in IIS 7https://technet.microsoft.com/en-us/library/333bd592-3975-47b7-846a-e2286161b1e0ASP.NET Page Life Cycle Overviewhttps://msdn.microsoft.com/en-us/library/ms178472.aspx#general_page_lifecycle_stages*General Page Life-Cycle Stageshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#general_page_lifecycle_stages
+Life-Cycle Events
+https://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsAdditional Page Life Cycle Considerationshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsCatch-Up Events for Added Controlshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsData Binding Events for Data-Bound Controlshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsNested Data-Bound Controlshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsLogin Control Eventshttps://msdn.microsoft.com/en-us/library/ms178472.aspx#lifecycle_eventsIntroduction to ASP.NET Web Formshttp://www.asp.net/web-forms/what-is-web-formsChapter 2ASP.NET Web Server Controls ASP.NET Web Server Controls Overviewhttps://msdn.microsoft.com/en-us/library/zsyt68f1(v=vs.100).aspx  HTML Server Controlshttps://msdn.microsoft.com/en-us/library/zsyt68f1(v=vs.100).aspxHow to: Add HTML Server Controls to a Web Page Using ASP.NET Syntaxhttps://msdn.microsoft.com/en-us/library/s37470tf(v=vs.100).aspxWeb Server Controlshttps://msdn.microsoft.com/en-us/library/zsyt68f1(v=vs.100).aspxAdd Web Server Controls to a Web Forms Page Using the Web Forms Designerhttps://msdn.microsoft.com/en-us/library/y40dxsky(v=vs.100).aspxAdd Server Controls to an ASP.NET Web Page Using ASP.NET Syntaxhttps://msdn.microsoft.com/en-us/library/zzhfb89h(v=vs.100).aspxSet ASP.NET Server Control Style Properties in the Designerhttps://msdn.microsoft.com/en-us/library/fes5e68a(v=vs.100).aspxSet ASP.NET Server Control Propertieshttps://msdn.microsoft.com/en-us/library/dt5bk9ke(v=vs.100).aspxConvert HTML Server Controls to HTML Elementshttps://msdn.microsoft.com/en-us/library/3kc9226t(v=vs.100).aspxSet ASP.NET Web Server Control Propertieshttps://msdn.microsoft.com/en-us/library/7ataet98(v=vs.100).aspxHow to Specify Whether ASP.NET Web Server Controls Post to the Serverhttps://msdn.microsoft.com/en-us/library/8cb3cz8e(v=vs.100).aspxASP.NET Web Server Controls and Browser Capabilitieshttps://msdn.microsoft.com/en-us/library/x3k2ssx2(v=vs.100).aspxTab Order, Focus, and Access Keys in ASP.NET Web Server Controlshttps://msdn.microsoft.com/en-us/library/ms178231(v=vs.100).aspxASP.NET Web Server Controls and CSS Styleshttps://msdn.microsoft.com/en-us/library/h4kete56(v=vs.100).aspxHow to: Set Focus on ASP.NET Web Server Controlshttps://msdn.microsoft.com/en-us/library/ms178232(v=vs.100).aspxSet ASP.NET Server Control Style Properties Using ASP.NET Syntaxhttps://msdn.microsoft.com/en-us/library/54dc18sa(v=vs.100).aspxSet ASP.NET Server Control Style Properties Programmaticallyhttps://msdn.microsoft.com/en-us/library/17ysx206(v=vs.100).aspxASP.NET Web Server Controls Templateshttps://msdn.microsoft.com/en-us/library/h59db326(v=vs.100).aspxCreate Web Server Control Templates Using the Designerhttps://msdn.microsoft.com/en-us/library/c9cbwsf3(v=vs.100).aspxAdd Controls to an ASP.NET Web Page Programmaticallyhttps://msdn.microsoft.com/en-us/library/kyt0fzt1(v=vs.100).aspxDynamic Web Server Controls and View Statehttps://msdn.microsoft.com/en-us/library/hbdfdyh7(v=vs.100).aspxChapter 3Validation Server ControlsValidating User Input in ASP.NET Web Pageshttps://msdn.microsoft.com/en-us/library/7kh55542(v=vs.100).aspx  Types of Validation for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/bwd43d0x(v=vs.100).aspxValidate Required Entries for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/e78xxk8k(v=vs.100).aspxValidate Against a Specific Value for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/e303tf05(v=vs.100).aspxValidate Against a Data Type for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/ad548tzy(v=vs.100).aspxValidate Against Patterns for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/6xh899wy(v=vs.100).aspxValidate Against a Range of Values for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/bk58fdzx(v=vs.100).aspxValidate Against Values in a Database for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/s5z00s5e(v=vs.100).aspxValidate with a Custom Function for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/f5db6z8k(v=vs.100).aspxSpecifying Validation Groupshttps://msdn.microsoft.com/en-us/library/ms227424(v=vs.100).aspxClient-Side Validation for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/yb52a4x0(v=vs.100).aspxSpecial-Case Validation Results for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/c6k4b2x3(v=vs.100).aspxValidation Error Message Layout for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/ksfy5wzx(v=vs.100).aspxControl Validation Error Message Display for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/1ze30x3t(v=vs.100).aspxFormat Validation Error Messages for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/fb6e4020(v=vs.100).aspxSpecify Layout for In-Place Messages On ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/ct6azxyt(v=vs.100).aspxDisplay Server Side Custom Validation Messages for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/3w0bs977(v=vs.100).aspxTest Validity Programmatically for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/dh9ad08f(v=vs.100).aspxDisable Validation for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/bt244wbb(v=vs.100).aspxValidate Programmatically for ASP.NET Server Controlshttps://msdn.microsoft.com/en-us/library/hxet6xwx(v=vs.100).aspxChapter 4ASP.NET Standard controls  controls https://msdn.microsoft.com/en-us/library/cc295572(v=expression.40).aspx  Refer all ASP.NET standard controls - Properties, Methods and Eventshttps://msdn.microsoft.com/en-us/library/cc295572(v=expression.40).aspxASP.NET User Controls Overviewhttps://msdn.microsoft.com/en-us/library/fb3w5b53(v=vs.100).aspxConvert Web Forms Pages into ASP.NET User https://msdn.microsoft.com/en-us/library/2x6sx01c(v=vs.100).aspxInclude a User Control in an ASP.NET Web Pagehttps://msdn.microsoft.com/en-us/library/sbz9etab(v=vs.100).aspxCreate Instances of ASP.NET User Controls Programmaticallyhttps://msdn.microsoft.com/en-us/library/c0az2h86(v=vs.100).aspxCreate Templated ASP.NET User Controlshttps://msdn.microsoft.com/en-us/library/36574bf6(v=vs.100).aspxCreate ASP.NET User Controlshttps://msdn.microsoft.com/en-us/library/wt3k2fyw(v=vs.100).aspxInclude ASP.NET User Controls in Web Pageshttps://msdn.microsoft.com/en-us/library/5d0t5fak(v=vs.100).aspxCreating Reusable Elements with ASP.NET User Controlshttps://msdn.microsoft.com/en-us/library/3457w616(v=vs.100).aspxStandard Toolbox Controls - Refer all controls https://msdn.microsoft.com/en-us/library/x8k61whf(v=vs.100).aspxData Toolbox Controlshttps://msdn.microsoft.com/en-us/library/s1c14y5c(v=vs.100).aspxData Web Server (ASP.NET) Controlshttps://msdn.microsoft.com/en-us/library/ms247243(v=vs.100).aspxASP.NET Data-Bound Web Server Controls https://msdn.microsoft.com/en-us/library/ms228214(v=vs.100).aspxListView Web Server Control https://msdn.microsoft.com/en-us/library/bb398790(v=vs.100).aspxGridView Web Server Controlhttps://msdn.microsoft.com/en-us/library/2s019wc0(v=vs.100).aspxDetailsView Web Server Control https://msdn.microsoft.com/en-us/library/s3w1w7t4(v=vs.100).aspxFormView Web Server Controlhttps://msdn.microsoft.com/en-us/library/ms227992(v=vs.100).aspxRepeater Web Server Control https://msdn.microsoft.com/en-us/library/x8f2zez5(v=vs.100).aspxDataList Web Server Controlhttps://msdn.microsoft.com/en-us/library/es4e4e0e(v=vs.100).aspxNavigation Toolbox Controlshttps://msdn.microsoft.com/en-us/library/c4hb2k3a(v=vs.100).aspxMenu Control https://msdn.microsoft.com/en-us/library/ecs0x9w5(v=vs.100).aspxSiteMapPath Web Server Control https://msdn.microsoft.com/en-us/library/x20z8c51(v=vs.100).aspxTreeView Web Server Control https://msdn.microsoft.com/en-us/library/e8z5184w(v=vs.100).aspxLogin Toolbox Controls - Refer all controls in this sectionhttps://msdn.microsoft.com/en-us/library/tz6e5ezc(v=vs.100).aspxASP.NET Login Controls  , Securing Login Controls,
+Customizing the Appearance of ASP.NET Login Controls, Enable User Password Recovery Using the ASP.NET PasswordRecovery Control , Enable User Registration,  Display the Name of the Current User , Add a LoginStatus Button to an ASP.NET Web Page , Create an ASP.NET Login Page , Display Different Information to Anonymous and Logged In UsersChapter 5Global.asax Global.asax  Syntax https://msdn.microsoft.com/en-us/library/vstudio/2027ewzw(v=vs.100).aspx  Application Directives- @ Application - Global.asax,@ Import,@ Assemblyhttps://msdn.microsoft.com/en-us/library/vstudio/s42bzt8x(v=vs.100).aspxCode Declaration Blockshttps://msdn.microsoft.com/en-us/library/vstudio/2cy7sxha(v=vs.100).aspxCode Render Blockshttps://msdn.microsoft.com/en-us/library/vstudio/k6xeyd4z(v=vs.100).aspxServer-Side Object Tag Syntaxhttps://msdn.microsoft.com/en-us/library/vstudio/h8k45y06(v=vs.100).aspxServer-Side Include Directive Syntaxhttps://msdn.microsoft.com/en-us/library/vstudio/3207d0e3(v=vs.100).aspxCreate ASP.NET Application-Level Event Handlershttps://msdn.microsoft.com/en-us/library/fwzzh56s.aspxChapter 6ASP.NET Web Configuration GuidelinesASP.NET Web Configuration Guidelineshttps://msdn.microsoft.com/en-us/library/vstudio/ff400235(v=vs.100).aspx   ASP.NET Configuration Overviewhttps://msdn.microsoft.com/en-us/library/ms178683.aspxASP.NET Configuration Fileshttps://msdn.microsoft.com/en-us/library/ms178684.aspxASP.NET Configuration File Structure https://msdn.microsoft.com/en-us/library/w7w4sb0w.aspxASP.NET Configuration Logical Modelhttps://msdn.microsoft.com/en-us/library/ms366520(v=vs.100).aspxEditing ASP.NET Configuration Fileshttps://msdn.microsoft.com/en-us/library/ackhksh7.aspxASP.NET Configuration File Hierarchy and Inheritancehttps://msdn.microsoft.com/en-us/library/ms178685.aspxASP.NET Configuration Scenarioshttps://msdn.microsoft.com/en-us/library/dtbwsx8s.aspxConfiguring Specific Files and Subdirectorieshttps://msdn.microsoft.com/en-us/library/6hbkh9s7.aspxLocking Configuration Settingshttps://msdn.microsoft.com/en-us/library/55th21y4.aspxCreate Web.config Fileshttps://msdn.microsoft.com/en-us/library/k8x4ket8(v=vs.100).aspxUsing ASP.NET Configurationhttps://msdn.microsoft.com/en-us/library/bb763176(v=vs.100).aspxConfiguring Apps by using Configuration Fileshttps://msdn.microsoft.com/en-us/library/1xtk877y.aspxHow To Edit the Configuration of an ASP.NET Applicationhttp://support2.microsoft.com/kb/815178Chapter 7ASP.NET State ManagementASP.NET State Management Overviewhttps://msdn.microsoft.com/en-us/library/75x4ha6s.aspx  ASP.NET Cookies Overviewhttps://msdn.microsoft.com/en-us/library/ms178194(v=vs.100).aspxHow to: Write a Cookiehttps://msdn.microsoft.com/en-us/library/78c837bd(v=vs.100).aspxHow to: Read a Cookiehttps://msdn.microsoft.com/en-us/library/bd70eh18(v=vs.100).aspxHow to: Delete a Cookiehttps://msdn.microsoft.com/en-us/library/ms178195(v=vs.100).aspxASP.NET View State Overviewhttps://msdn.microsoft.com/en-us/library/bb386448(v=vs.100).aspxASP.NET Session State Overview-
+Session Identifiers , Session-State Events , Session-State, Securing Session State,
+How to: Save Values in Session State ,
+ How to: Read Values from Session State ,https://msdn.microsoft.com/en-us/library/ms178581(v=vs.100).aspxImplementing a Session-State Store Providerhttps://msdn.microsoft.com/en-us/library/ms178587(v=vs.100).aspxSample Session-State Store Providerhttps://msdn.microsoft.com/en-us/library/ms178588(v=vs.100).aspxHow to: Sample Session-State Store Providerhttps://msdn.microsoft.com/en-us/library/ms178589(v=vs.100).aspxChapter 8Accessing DataAccessing Data with ASP.NEThttps://msdn.microsoft.com/en-us/library/6759sth4(v=vs.100).aspx  ASP.NET Data Access Overviewhttps://msdn.microsoft.com/en-us/library/ms178359(v=vs.100).aspxUsing LINQ with ASP.NEThttps://msdn.microsoft.com/en-us/library/bb907622(v=vs.100).aspxCreate LINQ to SQL Classes in a Web Projecthttps://msdn.microsoft.com/en-us/library/bb907587(v=vs.100).aspxBinding to Databaseshttps://msdn.microsoft.com/en-us/library/ms178361(v=vs.100).aspx*Connecting to Databases in ASP.NEThttps://msdn.microsoft.com/en-us/library/ms178371(v=vs.100).aspx* Secure Connection Strings when Using Data Source Controlshttps://msdn.microsoft.com/en-us/library/ms178372(v=vs.100).aspx*Basic Data Access in Web Pageshttps://msdn.microsoft.com/en-us/library/tw738475(v=vs.100).aspx*Editing and Inserting Data in Web Pages with the DetailsView Web Server Controlhttps://msdn.microsoft.com/en-us/library/sdba1d59(v=vs.100).aspx*Creating Master/Detail Web Pages in Visual Studiohttps://msdn.microsoft.com/en-us/library/stc0szde(v=vs.100).aspx*Creating a Web Page to Display Access Database Datahttps://msdn.microsoft.com/en-us/library/445z2s49(v=vs.100).aspxBinding to Business Objectshttps://msdn.microsoft.com/en-us/library/ms178368(v=vs.100).aspxData-Binding Expressions Overviewhttps://msdn.microsoft.com/en-us/library/ms178366(v=vs.100).aspxBind to Data in a Templated Controlhttps://msdn.microsoft.com/en-us/library/95k0273d(v=vs.100).aspxASP.NET Dynamic Data Overviewhttps://msdn.microsoft.com/en-us/library/cc488546(v=vs.100).aspxChapter 9ASP.NET 4.5 and Visual Studio 2012ASP.NET 4.5 and Visual Studio 2012- Overviewhttp://www.asp.net/aspnet/overview/aspnet-and-visual-studio-2012/whats-new#_Toc318097380  ASP.NET Core Runtime and FrameworkAsynchronously Reading and Writing HTTP Requests and ResponsesImprovements to HttpRequest handlingAsynchronously flushing a responseSupport for await and Task-Based Asynchronous Modules and HandlersAsynchronous HTTP modulesAsynchronous HTTP handlersNew ASP.NET Request Validation FeaturesDeferred ("lazy") request validationSupport for unvalidated requestsAntiXSS LibrarySupport for WebSockets ProtocolBundling and MinificationPerformance Improvements for Web HostingKey performance factorsRequirements for New Performance FeaturesSharing Common AssembliesTuning garbage collection to optimize for memoryASP.NET Web FormsModel BindingHTML Encoded Data-Binding ExpressionsUnobtrusive ValidationHTML5 UpdatesNative Support in IIS 7 for ASP.NET RoutingHTML EditorChapter 10Visual Studio Web Development Select Web Development Environment Settings - ( Net - 4.5 )https://msdn.microsoft.com/en-us/library/ff521558(v=vs.110).aspx  Visual Studio Templates for Web Projects -( Net - 4.5 )https://msdn.microsoft.com/en-us/library/ee377605(v=vs.110).aspxBasic HTML Editing in Visual Studio for Web Forms Pages https://msdn.microsoft.com/en-us/library/9z74w20y(v=vs.110).aspxUsing HTML Snippetshttps://msdn.microsoft.com/en-us/library/dd985242(v=vs.110).aspxAdvanced HTML Editing in Visual Studio for Web Forms Pageshttps://msdn.microsoft.com/en-us/library/schs05kd(v=vs.110).aspxInsert HTML Hyperlinks and Bookmarks in Design View for Web Forms Pageshttps://msdn.microsoft.com/en-us/library/ad09f4da(v=vs.110).aspxTesting Web Pages in Visual Studiohttps://msdn.microsoft.com/en-us/library/df5x06h3(v=vs.110).aspxMarkup Validation in Visual Studiohttps://msdn.microsoft.com/en-us/library/f940516c(v=vs.110).aspxWorking with CSS Overviewhttps://msdn.microsoft.com/en-us/library/bb398931(v=vs.110).aspxCreating and Modifying a CSS Filehttps://msdn.microsoft.com/en-us/library/bb398932(v=vs.110).aspxWorking with an Existing CSS Filehttps://msdn.microsoft.com/en-us/library/bb398783(v=vs.110).aspxUse the CSS Properties Windowhttps://msdn.microsoft.com/en-us/library/bb398902(v=vs.110).aspx​
+
+​
+
+
